@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = mathieudjobet@live.fr
+	name = Mathieu Djobet
